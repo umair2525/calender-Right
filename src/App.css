@@ -1,0 +1,12 @@
+.select{
+    margin: 4px 39vw;
+    width: 9vw;
+    height: 3vh;
+    font-size: medium;
+    font-family: sans-serif;
+    text-align: center;
+}
+.select:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+}
